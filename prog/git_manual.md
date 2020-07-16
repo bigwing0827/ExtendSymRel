@@ -2,8 +2,8 @@
     - https://techacademy.jp/magazine/6235
     
 1. ユーザ名とメアド登録
-    - $ git config --global user.name <usr>
-    - $ git config --global user.email <mail>
+    - $ git config --global user.name [usr]
+    - $ git config --global user.email [mail]
     - 確認 $ git config --list
 
 2. ローカルリポジトリの作成
